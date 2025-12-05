@@ -5,7 +5,7 @@ Your goal: aim, shoot, and survive as long as possible — test your reflexes an
 
 ---
 
-## 🕹️ Gameplay
+## 🕹️ Gameplays
 
 - Move your player to dodge and shoot enemies.  
 - Score points by hitting as many targets as possible.  
